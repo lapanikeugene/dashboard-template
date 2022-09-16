@@ -29,4 +29,4 @@ The dashboard also is mobile first. I've tested it on many screens, thank's to s
 
 ## Planned Features
 I have no special plans for this dashboard. But I could add more Bootstrap implementation, 
-and move it from pure html to React + typescript. 
+and transform it inor React App. 
