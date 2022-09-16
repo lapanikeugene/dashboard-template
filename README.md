@@ -22,7 +22,7 @@ The dashboard also is mobile first. I've tested it on many screens, thank's to s
 
 ## Lessons Learned During Development
 
-![Dashboard Screenshot](Screenshot.png "Auction app Screenshot")
+![Dashboard Screenshot](Screenshot_full.png "Screenshot")
 
 
 ## Planned Features
