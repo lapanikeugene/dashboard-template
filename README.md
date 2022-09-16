@@ -2,6 +2,8 @@
 Html + css template that could be used as a admin. or finance dashboard. 
 [DEMO LINK](https://eugenelapanik.com/dashboard/)
 
+[MOBILE FIRST](http://www.responsinator.com/?url=https%3A%2F%2Feugenelapanik.com%2Fdashboard%2F)
+
 ## Description
 This dashboard is a frontend project. The main aim was practicing my skill of work with 3d.js library. I've found that the best way to practice skills after freecodecamp is make one of such boards. 
 
