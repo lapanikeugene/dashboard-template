@@ -1,0 +1,13 @@
+{
+    "data":[
+        {"name":"CMSS","value":56},
+        {"name":"CMI","value":33},
+        {"name":"NAP","value":48},
+        {"name":"DBSS","value":32},
+        {"name":"DSCI","value":23},
+        {"name":"NBS","value":11},
+        {"name":"E2E","value":41},
+        {"name":"PCC","value":21}
+    ]
+
+}

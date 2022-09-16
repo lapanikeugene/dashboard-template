@@ -1,0 +1,17 @@
+{
+    "first_ring":[{"name":"DBSS","value":10},
+    { "name":"closed 2","value":10},
+    {"name":"DBSS","value":40},
+    {"name":"closed 2","value":30},
+    {"name":"BCi","value":40},
+    {"name":"CURRENt 2","value":30},
+    {"name":"BFG","value":30}],
+    "second_ring":[{"name":"COS","value":30},
+    { "name":"DRW 2","value":100},
+    {"name":"DBS","value":40},
+    {"name":"OS 97","value":35},
+    {"name":"BCi","value":40},
+    {"name":"CURRENt 2","value":30},
+    {"name":"BFG","value":30}]
+
+}
