@@ -23,10 +23,13 @@ The dashboard also is mobile first. I've tested it on many screens, thank's to s
 
 
 ## Lessons Learned During Development
+- It was long way to understand that I'cant correctly estimate time for a project. I thought this template will take about one day to implement. I was never so wrong. 
+- I learnd how to work with d3.js library. How to use it to make animation.
+- I've learned hot to make site responsive. 
 
 ![Dashboard Screenshot](Screenshot_full.png "Screenshot")
 
 
 ## Planned Features
 I have no special plans for this dashboard. But I could add more Bootstrap implementation, 
-and transform it inor React App. 
+and transform it into React App. 
